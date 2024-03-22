@@ -1,0 +1,9 @@
+.user{
+    border: 2px solid tomato;
+    border-radius: 20px;
+    padding: 5px;;
+}
+.btn{
+    background-color: hsl(222, 50%, 70%);
+    margin-right: 5px;
+}
